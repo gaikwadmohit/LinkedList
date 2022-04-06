@@ -1,6 +1,6 @@
 package dataStructureLinkList;
 
-import dataStructureLinkList.DeleteFirstElementUC5.Node;
+
 
 public class DeleteLastElementUC6 {
 	
